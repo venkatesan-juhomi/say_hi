@@ -11,5 +11,6 @@ module SayHi
   class WelcomeNote
     def self.greeting(name)
       "#{"Hello"}, #{name}"
+    end
   end
 end
